@@ -1,0 +1,117 @@
+Return-path: <fullsailcareerdev@csm.symplicity.com>
+Envelope-to: mail@aarondb.com
+Delivery-date: Mon, 14 Jul 2014 14:16:57 -0600
+Received: from [66.151.109.16] (port=48813 helo=mail2.symplicity.com)
+	by just119.justhost.com with esmtp (Exim 4.82)
+	(envelope-from <fullsailcareerdev@csm.symplicity.com>)
+	id 1X6mgC-000808-G2
+	for mail@aarondb.com; Mon, 14 Jul 2014 14:16:57 -0600
+Received: from gp30.symplicity.com (gp30.symplicity.com [172.16.1.196])
+	by mail2.symplicity.com (Postfix) with ESMTP id 05A2752AB31
+	for <mail@aarondb.com>; Mon, 14 Jul 2014 16:16:52 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_497e0bbf1cd766928c91aaefc86d47ae"
+From: fullsailcareerdev@csm.symplicity.com
+Reply-To: vmattera@fullsail.com
+To: mail@aarondb.com
+Subject: EVENT!!!!  CloudSpace
+Message-ID: <0a907ed0b92405b46ad7ee2d328cc779@fullsail-csm.symplicity.com>
+Date: Mon, 14 Jul 2014 16:16:51 -0400
+X-Identified-User: {0000:just119.justhost.com:local:local} {sentby:Delivered locally}
+
+--=_497e0bbf1cd766928c91aaefc86d47ae
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Learn about current opportunities in=20
+Mobile and Web Development at Cloudspace!
+
+At Full Sail University:
+=E2=80=A2 WHEN:=C2=A0 =C2=A0 Tuesday, July 15, 2014 - 1:30 PM =E2=80=93 3:0=
+0 PM
+=E2=80=A2 WHERE:=C2=A0=C2=A0Full Sail University Winter Park, FL- FS1-123A=
+=C2=A0
+
+Online:
+This event will also be available online.=20
+Register for GoToTraining: https://student.gototraining.com/r/3640760435847=
+144192
+
+Guest Speakers:
+Eric Marcoullier =E2=80=93 Partner; Cloudspace
+Chris Moore =E2=80=93 Software Engineer; Cloudspace
+
+Cloudspace is an Orlando, FL based web and mobile development shop with a l=
+ove for realizing big ideas. They are opinionated strategy and technology p=
+artners who have been building highly valuable businesses for over 17 years=
+. Cloudspace loves agile, lean, open source, iterative development and movi=
+ng at start-up speed.
+
+Led by Todd Sampson and Eric Marcoullier, the team has founded and ran many=
+ start-ups including IGN.com (IPO), BuzzSite (flamed out), MyBlogLog (acqui=
+red by Yahoo!), Gnip (going strong) and OneTrueFan (acquired by BigDoor). T=
+hey have also built, invested in and advised a wide array of startups inclu=
+ding Zynga, UberVU, Beatport, Mashery, Storify, Klout, Wetfeet, Rent Adviso=
+r, Cloud Logistics, Pocket, Yummly and many, many more.
+For additional information on Cloudspace, visit http://cloudspace.com/ and =
+to see their latest code, visit https://github.com/cloudspace/
+
+Warm Regards,
+
+Victoria Mattera | Assistant Advisor | Career Development | Full Sail Unive=
+rsity
+T 407.551.2023 x8751 | F 407.671.2240
+
+CareerSync: http://careersync.fullsail.com
+On Connect: https://orgsync.com/50443/chapter
+--=_497e0bbf1cd766928c91aaefc86d47ae
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+=0A<p style=3D"text-align: left;"><span style=3D"font-family: arial,helveti=
+ca,sans-serif;"><span style=3D"font-size: small;">Hello,<br>=0A&nbsp;<br></=
+span></span>Learn about current opportunities in <br>=0AMobile and Web Deve=
+lopment at Cloudspace!<br><br>=0AAt Full Sail University:<br>=0A&bull; WHEN=
+:&nbsp; &nbsp; Tuesday, July 15, 2014 - 1:30 PM &ndash; 3:00 PM<br>=0A&bull=
+; WHERE:&nbsp;&nbsp;Full Sail University Winter Park, FL- FS1-123A <br><br>=
+=0AOnline:<br>=0AThis event will also be available online. <br>=0ARegister =
+for GoToTraining: https://student.gototraining.com/r/3640760435847144192<br=
+><br>=0AGuest Speakers:<br>=0AEric Marcoullier &ndash; Partner; Cloudspace<=
+br>=0AChris Moore &ndash; Software Engineer; Cloudspace<br><br>=0ACloudspac=
+e is an Orlando, FL based web and mobile development shop with a love for r=
+ealizing big ideas. They are opinionated strategy and technology partners w=
+ho have been building highly valuable businesses for over 17 years. Cloudsp=
+ace loves agile, lean, open source, iterative development and moving at sta=
+rt-up speed.</p>
+<p style=3D"text-align: left;">Led by Todd Sampson and Eric Marcoullier, th=
+e team has founded and ran many start-ups including IGN.com (IPO), BuzzSite=
+ (flamed out), MyBlogLog (acquired by Yahoo!), Gnip (going strong) and OneT=
+rueFan (acquired by BigDoor). They have also built, invested in and advised=
+ a wide array of startups including Zynga, UberVU, Beatport, Mashery, Stori=
+fy, Klout, Wetfeet, Rent Advisor, Cloud Logistics, Pocket, Yummly and many,=
+ many more.<br>=0AFor additional information on Cloudspace, visit http://cl=
+oudspace.com/ and to see their latest code, visit https://github.com/clouds=
+pace/<br><br></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;"><span style=3D"font-size: small;">Warm Regards,<br><br><span s=
+tyle=3D"color: #ff6600;">Victoria Mattera</span> <span style=3D"color: #c0c=
+0c0;"><span style=3D"color: #999999;">| Assistant Advisor |</span> </span><=
+span style=3D"color: #ff6600;">Career Development</span> <span style=3D"col=
+or: #999999;">| Full Sail University</span><br><span style=3D"color: #ff660=
+0;">T</span><span style=3D"color: #999999;"> 407.551.2023 x8751 |</span> <s=
+pan style=3D"color: #ff6600;">F</span> <span style=3D"color: #999999;">407.=
+671.2240</span><br><br><span style=3D"color: #ff6600;">CareerSync: <a href=
+=3D"https://fullsail-csm.symplicity.com/track/a94bc00c9d31d2fa6fe6d16a3f2c4=
+851/3273836767/realurl=3Dhttp://careersync.fullsail.com" target=3D"_blank">=
+http://careersync.fullsail.com</a><br>=0AOn Connect: <a href=3D"https://ful=
+lsail-csm.symplicity.com/track/a94bc00c9d31d2fa6fe6d16a3f2c4851/3273836767/=
+realurl=3Dhttps://orgsync.com/50443/chapter" target=3D"_blank">https://orgs=
+ync.com/50443/chapter</a><br><a title=3D"http://alumni.fullsail.edu/index.c=
+fm?fa=3Dhelp.main" href=3D"https://fullsail-csm.symplicity.com/track/a94bc0=
+0c9d31d2fa6fe6d16a3f2c4851/3273836767/realurl=3Dhttp://alumni.fullsail.edu/=
+index.cfm?fa=3Dhelp.main"></a></span></span></span></p><img src=3D"https://=
+fullsail-csm.symplicity.com/track/a94bc00c9d31d2fa6fe6d16a3f2c4851/32738367=
+67/email.gif" border=3D"0" alt=3D"">=0A
+--=_497e0bbf1cd766928c91aaefc86d47ae--
+
